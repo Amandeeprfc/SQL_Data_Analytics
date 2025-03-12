@@ -2,15 +2,20 @@
 
 SQL Advanced Data Analytics
 
--- Analyze Sales Performance 
+-- Analyze Sales Performance
+
 -- Change over time Trend Analysis
+
 -- Cumulative Analysis 
+
 -- Performance Analysis 
+
 -- Propotional Analysis (Part to whole Analysis)
+
 -- Data Segmentation 
+
 -- Make the Product and Customer Report
 
-===================================================================================================================================
 Product Report
 ===================================================================================================================================
 Purpose
